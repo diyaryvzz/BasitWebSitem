@@ -4,7 +4,7 @@
     Web sitemin kodlarını paylaştım `HTML + CSS` Kodlarına bakarak zaten sizlerde anlayabilirsiniz.
    
 Kodları dilediğiniz gibi kullanabilirsiniz takıldığınız bir yer olursa sosyal medya araçlarından,
-bana ulaşabilirsinzi veya mail yoluyla da ulaşabilirsiniz
+bana ulaşabilirsiniz veya mail yoluyla da ulaşabilirsiniz
 
 ### Mail Adresim
 `diyaryvzz@gmail.com`
